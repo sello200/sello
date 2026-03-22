@@ -13,6 +13,4 @@ int main() {
     hasil = rataRata(x, y, z);
 
     printf("Rata-rata = %.2f\n", hasil);
-
-    return 0;
 }
